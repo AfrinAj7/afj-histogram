@@ -1,4 +1,4 @@
-<h1> Deployment Link : afju-histogram.netlify.app <h1/>
+<h1> Deployment Link : <href> afju-histogram.netlify.app,/href> </h1>
 
 Explanation of the code :
 >>>we import necessary dependencies. We're using the react-chartjs-2 library to render a bar chart, along with the chart.js library for additional chart functionality. We also import React hooks such as useState, useRef, and useEffect to manage state and perform side effects. Finally, we import the Head component from Next.js for managing the page's head elements.
